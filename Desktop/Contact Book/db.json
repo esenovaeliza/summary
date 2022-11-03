@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Erika",
+      "surname": "AAA",
+      "phone": "23423253425",
+      "image": "https://i.guim.co.uk/img/media/63de40b99577af9b867a9c57555a432632ba760b/0_266_5616_3370/master/5616.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=93458bbe24b9f88451ea08197888ab8e",
+      "id": 4
+    },
+    {
+      "name": "Anna",
+      "surname": "Ul",
+      "phone": "59992228844",
+      "image": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg",
+      "id": 5
+    },
+    {
+      "name": "Lena",
+      "surname": "All",
+      "phone": "365346346",
+      "image": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg?q=85&w=1340",
+      "id": 6
+    }
+  ]
+}
